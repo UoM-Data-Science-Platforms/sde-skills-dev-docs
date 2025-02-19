@@ -1,4 +1,6 @@
 # Design Documentation Template
+[TODO] not sure we need either of these design docs in this repo
+
 The following is a helpful starter template for a design document. Design docs should be written in markdown and PR'd into the relevant project-docs repo. 
 
 Whilst this is a template, it's _not_ exhaustive and may include things you don't need. The key is to convey meaning in a logical way for a new reader who doesn't hold all the knowledge in their heads that you do. 

@@ -1,11 +1,17 @@
 # Project Management
 
-CHIL technical projects are managed using an [agile](http://agilemanifesto.org) methodology. 
+How we will run the program to ensure we meet objectives outlined in the proposals and that we continue to meet individual technical and professional training needs of delegate.
 
-The overarching software objectives will be described in User Stories, grouped into Epics of related functionality. An [example of how this works](https://github.com/civic-health-innovation-labs/mric-docs/wiki/Epic-and-Milestone-Overview) can be found in the MRIC wiki.
+## Management Reviews:
+Every two weeks you will meet with your technical manager to discuss your training progress. Ensure your traning log in up-to-date.
 
-Projects are managed with two week sprints (although this can change depending on project).
+## Performance Reviews:
+You will have quarterly performance reviews that will assess your training progress and project deliverables. Ensure you have completed your performance review form and your colleague appraisal forms are completed before the review.
 
-There are twice weekly stand up meetings, usually held online, to review the project task list and backlog. 
+## Interviews
+bla bla bla
 
-Additionally, once per week, a retrospective will be held to review progress, share a demo of work from a volunteer and potentially identify any further planning that needs to be done. This is managed through GitHub Projects. 
+## Training log
+this tracks your progress through the career development program [...]
+
+## [Other artifacts and 'ceremonies' that help in generating evidence and supporting the research delivery of the project]

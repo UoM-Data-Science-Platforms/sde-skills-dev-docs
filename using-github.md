@@ -1,14 +1,13 @@
 # Using GitHub
-
+[TODO] I think this is good but maybe belongs in a policies and sops section? or best practice... Are we all going te enforce the same GH and SC policy? or maybe we get rid of this entirely?
 ## Creating repositories
 Repositories are for discreet applications. Repository names should start with a project prefix and then the name of the application. Prefixes are:
 | Prefix | Project Name |
 |---|---|
-| chil- | Prefix for global projects or information for the Civic Health Innovation Labs | 
-| cgull- | Children Growing Up in LiverpooL |
-| mric- | Mental Health Research for Innovation Centre projects, including TRE |
+| SDE-SKILLS- | Prefix for global projects or information for the SDE Skills Hub | 
 
-Repository names should be all lower case with words divided by a dash for readability. E.g. chil-dev-docs
+
+Repository names should be all lower case with words divided by a dash for readability. E.g. sde-skills-dev-docs
 
 ## Naming files
 [TODO] Do we need different standards for different programming languages?

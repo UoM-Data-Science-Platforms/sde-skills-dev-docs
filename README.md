@@ -1,8 +1,10 @@
-# CHIL Development Guide
+# SDE Skills Hub Development Guide
+[TODO] All of this content needs reviewing as i suspect the SDEs being designed by each istitution has its own foundations. E.G. UoM don't use Azure TRE. The Principles section is perfect though and should probably for part of the core induction training we offer.
+
 Repository for development processes and standards for use of repositories and code approach. A good place for people to start to understand how to contribute here.
 
 ## How to Use GitHub
-[How we use GitHub](https://github.com/civic-health-innovation-labs/chil-dev-docs/blob/main/using-github.md)
+[How we use GitHub](using-github.md)
 
 ## Programming Languages and Development Tools
 [List of developer skills and materials](skills.md)
@@ -37,7 +39,7 @@ https://learn.microsoft.com/en-gb/azure/well-architected/security/
 
 ## Folder Structure
 ```
-└── 📁chil-dev-docs 
+└── 📁sde-skills-dev-docs 
     └── README.md // Readme file
     └── 📁assets // Folder for images and other fixed assets
     └── 📁design-docs // Design docs folder
