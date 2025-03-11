@@ -9,6 +9,9 @@ Access official Microsoft Training materials, pre-recorded training sessions, li
 
 _note: you can book certification exams free of charge through your training and development manager._
 
+## Cloud Native Computing Foundation
+[https://www.cncf.io/training/](https://www.cncf.io/training/)
+
 ### SDE Training collection
 This is a collated list of Microsoft training materials that has already been identified as being of particular interest to those involved in the production and operations of Secure Data Environments:
 
