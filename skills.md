@@ -10,6 +10,7 @@ Access official Microsoft Training materials, pre-recorded training sessions, li
 _note: you can book certification exams free of charge through your training and development manager._
 
 ## Cloud Native Computing Foundation
+CNCF offers a comprehensive catalog of certifications aimed at IT professionals, concentrating on key skills in Kubernetes, cloud native security and cloud native technologies. For certification prep or skill enhancement, CNCF provides training courses covering foundational and advanced topics.
 [https://www.cncf.io/training/](https://www.cncf.io/training/)
 
 ### SDE Training collection
